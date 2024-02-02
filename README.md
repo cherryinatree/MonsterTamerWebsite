@@ -1,4 +1,3 @@
-
 # MonsterTamerWebsite
  Website for the video game Monster Tamer's Journey
 ## Overview
@@ -38,19 +37,153 @@ The video game websites I looked have most of the relevant information to the us
 
 
 
-## Solution Architecture Diagram
-
-
-## Wireframe diagrams
-
-An image: ![Alt](README_images/WebsiteAdminCreatorList.png)
-
 ## User Stories
+1:
+``` 
+* As a potential customer
+* I need to see content
+* So that I can decide if I want this game
+```
+2:
+``` 
+* As a potential Journalist writing about the game
+* I need a way to recieve a demo
+* So that I can review the game
+```
+3:
+``` 
+* As a potential streamer
+* I need a way to recieve a demo
+* So that I can review the game
+```
+4:
+``` 
+* As a potential customer
+* I need to contact the support team
+* So that I can fix an issue I'm having with the game
+```
+5:
+``` 
+* As a potential customer
+* I need to see news about the game
+* So that I understand what changed in the latest update
+```
 
 
 ## Initial Use Cases
+1:
+``` 
+Deciding whether to buy
+The Media System
+Customer
 
+The customer will head to the home page of the website. 
+Deciding if they want to buy the game, 
+they will want to see content. 
+The customer will look at the nav bar and see media. 
+When they click on media, the request for the media page will be sent.
+The browser will recieve the media page with embeded YouTube videos of trailers.
+There will also be images of in game content. 
+The customer will click on a trailer and it will start playing on the media page.
+The user will have the option to click on a button on the video that will take
+them to YouTube if they prefer to watch the video there. 
+This option is provided by the YouTube embeded video system. 
+
+```
+2:
+``` 
+Journalist Needing a Demo
+The Press System
+Journalist 
+
+The journalist will head to the home page of the website. 
+The journalist will navigate to the nav bar and click the press button.
+The request for the page will be sent to the server and the server will
+send back the press page. 
+On the press page they will click the sign up button under the journalist image.
+The requst for the journalist sign up page will be sent to the server and the
+journalist sign up page will be returned to the browser. 
+The Journalist will fill out the sign up form and check that they want a demo.
+They will submit the page and be contacted shortly after they've been evaluated. 
+```
+3:
+``` 
+Streamer Needing a Demo
+The Press System
+Streamer
+
+The streamer will head to the home page of the website. 
+The streamer will navigate to the nav bar and click the press button.
+The request for the page will be sent to the server and the server will
+send back the press page. 
+On the press page they will click the sign up button under the streamer image.
+The requst for the streamer sign up page will be sent to the server and the
+streamer sign up page will be returned to the browser. 
+The streamer will fill out the sign up form and check that they want a demo.
+They will submit the page and be contacted shortly after they've been evaluated. 
+```
+4:
+``` 
+Solving a Technical Issue
+The Support System
+Customer
+
+The customer is having a problem with the game.
+The customer will arive on the home page.
+The customer will head over the the Support button on the nav bar.
+The support button will send a request for the support page.
+The server will send the support page to the browser.
+The customer will click on the FAQ button and the requst for the FAQ page will be sent. 
+The browser will be sent the FAQ page.
+The customer will find a drop down bar that has their question on it.
+When the customer clicks on it, the answer will appear in the drop down.
+```
+5:
+``` 
+Finding News about and Update
+The News System
+Customer
+
+The customer wants to know what changed in the latest update. 
+The customer will find themselves on the home page. 
+The customer will click on the News button on the nav bar.
+The request will be sent to the server for the News page.
+The server will send the browser the News page.
+On the news page, the user will find a Image with a text title on top of the update. 
+The image will also be overlaid with text explaining the update. 
+
+```
+
+
+## Solution Architecture Diagram
+
+Soultion Arch Diagram: ![Soultion Arch Diagram](README_images/SoultionArchDiagram.png)
 
 ## Use Case Diagram
 
+Use Case Diagram: ![Use Case Diagram](README_images/UseCaseDiagram.png)
+
+## Wireframe diagrams
+
+Website Home: ![Admin Creator List page](README_images/WebsiteHome.png)
+Website Media: ![Website Media page](README_images/WebsiteMedia.png)
+website News: ![website News page](README_images/websiteNews.png)
+Website Press: ![Website Press page](README_images/WebsitePress.png)
+Website Contact: ![Website Contact page](README_images/WebsiteContact.png)
+Website Press List: ![Website Press List page](README_images/WebsitePressList.png)
+Website Creator List: ![Website Creator List page](README_images/WebsiteCreatorList.png)
+Website FAQ: ![Website FAQ page](README_images/WebsiteFAQ.png)
+Website Popup Confirm: ![Website Popup Confirm page](README_images/WebsitePopupConfirm.png)
+Website Support: ![Website Support page](README_images/WebsiteSupport.png)
+Admin Creator List: ![Admin Creator List page](README_images/WebsiteAdminCreatorList.png)
+Website Admin FAQ add: ![Website Admin FAQ addpage](README_images/WebsiteAdminFAQadd.png)
+Website Admin FAQ Remove: ![Website Admin FAQ Remove page](README_images/WebsiteAdminFAQRemove.png)
+Website Admin Hub: ![Website Admin Hub page](README_images/WebsiteAdminHub.png)
+Website Admin Log In: ![Website Admin Log In page](README_images/WebsiteAdminLogIn.png)
+Website Admin Media Add: ![Website Admin Media Add page](README_images/WebsiteAdminMediaAdd.png)
+Website Admin Media Remove: ![Website Admin Media Remove page](README_images/WebsiteAdminMediaRemove.png)
+Website Admin News Add: ![Website Admin News Add page](README_images/WebsiteAdminNewsAdd.png)
+Website Admin News Remove: ![Website Admin News Remove page](README_images/WebsiteAdminNewsRemove.png)
+Website Admin Press List: ![Website Admin Press List page](README_images/WebsiteAdminPressList.png)
+Website Admin Support View: ![Website Admin Support View page](README_images/WebsiteAdminSupportView.png)
 
