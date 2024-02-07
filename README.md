@@ -163,6 +163,20 @@ Soultion Arch Diagram: ![Soultion Arch Diagram](README_images/SoultionArchDiagra
 
 Use Case Diagram: ![Use Case Diagram](README_images/UseCaseDiagram.png)
 
+
+## Requirements
+
+
+| ID | Requirement |
+|:---:| ----------:|
+| 1 |  The software shall allow users to video in game content so they may decide if they want to buy the game. The software shall have a page dedicated to trailers, screenshots, and videos of things happening in game. |
+| 2 | The software shall allow journalists to be able to sign up for a demo. The page with the sign up shall gather information from the journalist so they can be authenticated, and a correspondence can be established. |
+| 3 | The software shall allow Streamers to be able to sign up for a demo. The page with the sign up shall gather information from the Streamers so they can be authenticated, and a correspondence can be established. |
+| 4 | The software shall have a way for users to find solutions to their technical issues. This shall include a Frequently Asked Questions page and a Support page for users to contact the site admin. |
+| 5 | The software shall include a page where users can find information about updates to the game. This page shall also include any information surrounding the game such as upcoming merchandise and DLC. | 
+|||
+
+
 ## Wireframe diagrams
 
 Website Home: ![Admin Creator List page](README_images/WebsiteHome.png)
