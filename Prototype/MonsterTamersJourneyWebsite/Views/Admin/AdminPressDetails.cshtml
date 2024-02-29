@@ -1,0 +1,38 @@
+﻿@model Press
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+<div id="modal">
+    <header class="text-black"><h1>Press Details</h1></header>
+    <section>
+
+        <h5>Email</h5>
+        <p class="text-black BoxTableItems">@Model.Email</p>
+        <h5>Name</h5>
+        <p class="text-black BoxTableItems">@Model.name</p>
+        <h5>Outlet Name</h5>
+        <p class="text-black BoxTableItems">@Model.OutletName</p>
+        <h5>Request Key</h5>
+        <p class="text-black BoxTableItems">@Model.RequestKey</p>
+        <h5>Main Channel</h5>
+        <p class="text-black BoxTableItems">@Model.MainChannel</p>
+        <h5>Twitter Handel</h5>
+        <p class="text-black BoxTableItems">@Model.TwitterHandel</p>
+        <h5>Outlet Catagory</h5>
+        <p class="text-black BoxTableItems">@Model.OutletCatagory</p>
+        <h5>Other Requests</h5>
+        <p class="text-black BoxTableItems">@Model.OtherRequests</p>
+
+        <a asp-controller="Admin" asp-action="AdminPressList">
+            <button class="round-button bg-primary text-decoration-underline-none">Back</button></a>
+        <a asp-controller="Admin" asp-action="SavePressRemove"
+           asp-route-id="@Model.PressId"><button class="round-button bg-danger text-decoration-underline-none">Remove</button></a>
+    </section>
+</div>
+

@@ -1,0 +1,53 @@
+﻿@model List<Press>
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+<div id="modal">
+    <header class="text-black"><h1>Press List</h1></header>
+    <section>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>Edit</th>
+                    <th>Remove</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var press in Model)
+                {
+                    <tr>
+                        <td style="width:10%">
+                            <p class="text-black BoxTableItems">@press.Email</p>
+                        </td>
+                        <td style="width:30%">
+                            <p class="text-black BoxTableItems">@press.name</p>
+                        </td>
+                        <td style="width:30%">
+                            <p class="text-black BoxTableItems">@press.OutletName</p>
+                        </td>
+                        <td style="width:30%">
+                            <p class="text-black BoxTableItems">@press.RequestKey</p>
+                        </td>
+
+                        <td style="width:10%">
+                            <a asp-controller="Admin" asp-action="AdminPressDetails"
+                               asp-route-id="@press.PressId"><button class="round-button bg-danger text-decoration-underline-none">Details</button></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+    </section>
+</div>
+
+

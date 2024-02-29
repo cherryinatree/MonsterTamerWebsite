@@ -1,0 +1,56 @@
+﻿@model List<News>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div id="modal">
+    <header class="text-black"><h1>News List</h1></header>
+    <section>
+
+        <a asp-controller="Admin" asp-action="AdminNewsAdd"><button class="round-button">Add News</button></a>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>Edit</th>
+                    <th>Remove</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var news in Model)
+                {
+                    <tr>
+                        <td style="width:10%">
+                            <p class="text-black BoxTableItems">@news.Order</p>
+                        </td>
+                        <td style="width:20%">
+                            <p class="text-black BoxTableItems">@news.Title</p>
+                        </td>
+                        <td style="width:20%">
+                            <p class="text-black BoxTableItems">@news.Content</p>
+                        </td>
+                        <td style="width:20%">
+                            <p class="text-black BoxTableItems">@news.ImageUrl</p>
+                        </td>
+                        <td style="width:10%">
+                            <a asp-controller="Admin" asp-action="AdminNewsEdit"
+                               asp-route-id="@news.NewsId"><button class="round-button bg-warning">Edit</button></a>
+                        </td>
+                        <td style="width:10%">
+                            <a asp-controller="Admin" asp-action="SaveNewsRemove"
+                               asp-route-id="@news.NewsId"><button class="round-button bg-danger text-decoration-underline-none">Remove</button></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+    </section>
+</div>
+
+

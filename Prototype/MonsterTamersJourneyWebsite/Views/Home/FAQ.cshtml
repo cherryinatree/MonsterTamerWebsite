@@ -1,0 +1,24 @@
+﻿@model List<FAQ>
+@{
+    ViewData["Title"] = "Home Page";
+
+    int i = 0;
+}
+
+<div id="modal">
+    <header><h1>FAQ</h1></header>
+    <section>
+
+
+
+        @foreach (var faq in Model)
+        {
+            i++;
+            <div class="faq-item">
+                <div class="question" onclick="toggleAnswer('answer+@i.ToString()')">@faq.Title @i.ToString()</div>
+                <div class="answer" id="answer+@i.ToString()">@faq.Content</div>
+            </div>
+
+        }
+    </section>
+</div>

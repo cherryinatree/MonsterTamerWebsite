@@ -1,0 +1,128 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-width: 100vw;
+}
+
+body {
+    margin-bottom: 60px;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-color: #9fd4f5;
+    color: #e6f6f7;
+}
+.top-half-background {
+    height: 70vh; /* 50% of the viewport height */
+    width: 100vw;
+    background-image: url("../Images/InGame1.png"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+nav {
+    background-color: #b99ff5;
+    color: #78a6f0;
+    padding: 10px;
+}
+
+#remove-margin-padding {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Button styles */
+
+/* Style for the round button */
+.round-button {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 25px; /* Adjust to control the roundness of the button */
+    background-color: #3498db; /* Replace with your desired color code */
+    color: white; /* Change the text color to ensure readability */
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+    .round-button:hover {
+        background-color: #2980b9; /* Change the background color on hover */
+    }
+
+/* Style for the button icon */
+.button-icon {
+    width: 5vw; /* Adjust the width of the icon */
+    height: 5vw; /* Maintain the aspect ratio of the icon */
+    margin-right: 10px; /* Add spacing between the icon and text */
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make the container full height of the viewport */
+}
+
+.large-center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    width: 80%; /* Make the container full height of the viewport */
+}
+
+
+.faq-item {
+    margin-bottom: 10px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.question {
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: black;
+}
+
+.answer {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    color: black;
+}
+
+
+.TableItemRow {
+    width: 100%;
+}
+
+
+.button-image-link {
+    background-image: url('../Images/InGame4.png');
+    background-size: 100% 100%;
+    cursor: pointer;
+    border: 3px solid #ff0000;
+    width: 50%;
+    height: 50vh;
+    margin: auto;
+}

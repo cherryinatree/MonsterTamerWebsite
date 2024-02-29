@@ -1,0 +1,76 @@
+﻿@model List<Media>
+
+@{
+    ViewData["Title"] = "Home Page";
+    //string mediaName = (@Model.FirstOrDefault(x => x.MediaId == 1)).ImageUrl;
+    int i = -1;
+    int x = -1;
+
+}
+
+
+
+
+<div id="modal">
+
+    <section>
+    @foreach (var media in Model)
+    {
+        
+            i++;
+    @if (i < 1)
+    {
+
+                <header><h3 class="text-black text-center">Media</h3></header>
+            <div class="text-center">
+
+                @if (@media.isImage == false)
+                {
+                    <img src="@media.ImageUrl" alt="A sample image" width="300" height="200" />
+                }
+                else
+                {
+
+                    <iframe width="560" height="315" src="@media.VideoUrl"
+                            title="YouTube video player" frameborder="0" allow="accelerometer;
+                        autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+                        web-share" allowfullscreen></iframe>
+                }
+            </div>
+    }
+
+           
+        }
+
+
+        <div id="modal" style="margin:auto;">
+            <section style="background-color:antiquewhite; margin:auto;">
+
+        @foreach (var media in Model)
+        {
+
+            x++;
+
+            @if (x >= 1)
+            {
+
+                @if (@media.isImage == false)
+                {
+                            <img style="display:d-inline-flex" src="@media.ImageUrl" alt="A sample image" width="300" height="200" />
+                }
+                else
+                {
+
+                            <iframe style="display:d-inline-flex" width="560" height="315" src="@media.VideoUrl"
+                            title="YouTube video player" frameborder="0" allow="accelerometer;
+                                autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+                                web-share" allowfullscreen></iframe>
+                }
+
+            }
+
+                }
+            </section>
+        </div>
+    </section>
+</div>

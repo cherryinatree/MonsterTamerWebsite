@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div id="modal">
+    <header class="text-black"><h1>News List</h1></header>
+    <section>
+<table border="1">
+  <tbody>
+      <tr>
+          <td>
+            <button >News</button>
+          </td>
+          <td>
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminNewsRemove">
+                <button >View List</button>
+              </a>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <button >Media</button>
+          </td>
+          <td>
+              
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminMediaRemove">
+            <button >View List</button>
+            </a>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <button >FAQ</button>
+          </td>
+          <td>
+              
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminFAQRemove">
+            <button >View List</button>
+            </a>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <button >Support Requests</button>
+          </td>
+          <td>
+              
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminSupportList">
+            <button >View List</button>
+            </a>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <button >Press List</button>
+          </td>
+          <td>
+              
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminPressList">
+            <button >View List</button>
+            </a>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <button >Creator List</button>
+          </td>
+          <td>
+              <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="AdminCreatorList">
+            <button >View List</button>
+            </a>
+          </td>
+      </tr>
+  </tbody>
+</table>
+
+    </section>
+</div>

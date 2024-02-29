@@ -1,0 +1,37 @@
+﻿@model SupportRequest
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="modal">
+    <header><h1>Support Request</h1></header>
+    <section>
+
+        <form asp-controller="Home" asp-action="SaveContact" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="SupportEmail" class="form-label">Email</label>
+                <input asp-for="SupportEmail" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Subject" class="form-label">Subject</label>
+                <input asp-for="Subject" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Question" class="form-label">Question</label>
+                <textarea asp-for="Question" class="form-control"></textarea>
+            </div>
+            
+            <input type="hidden" asp-for="SupportRequestId" />
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-controller="Home" asp-action="Support" asp-route-id="@Model.SupportRequestId"
+               class="btn btn-primary">Cancel</a>
+        </form>
+
+    </section>
+</div>

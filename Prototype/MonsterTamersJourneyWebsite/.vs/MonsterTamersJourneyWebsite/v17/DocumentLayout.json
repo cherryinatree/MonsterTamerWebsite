@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\media.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\media.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\support.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\press.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\press.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\creatorsignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\creatorsignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\wwwroot\\css\\boxcontainer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:wwwroot\\css\\boxcontainer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\presssignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\presssignup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminpresslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminpresslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\admincreatordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\admincreatordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\admincreatorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\admincreatorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminpressdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminpressdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminmediaremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminmediaremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\supportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\supportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminmediaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminmediaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminmediaadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminmediaadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminnewsadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminnewsadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminnewsremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminnewsremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminnewsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminnewsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminfaqadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminfaqadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminfaqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminfaqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminhub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminhub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminsupportlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminsupportlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminfaqremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminfaqremove.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\monstertamersjourneywebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:monstertamersjourneywebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|c:\\backup\\recipewebsite\\monstertamersjourney\\monstertamersjourneywebsite\\views\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48F8862D-3E67-4800-896D-DD6B57AAD83B}|MonsterTamersJourneyWebsite.csproj|solutionrelative:views\\admin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Media.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Media.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Media.cshtml",
+              "RelativeToolTip": "Views\\Home\\Media.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:11:01.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Support.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Support.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Support.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Support.cshtml",
+              "RelativeToolTip": "Views\\Home\\Support.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T19:08:12.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-15T17:53:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\News.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\News.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\News.cshtml",
+              "RelativeToolTip": "Views\\Home\\News.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T20:20:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T17:34:37.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "boxContainer.css",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\boxContainer.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\boxContainer.css",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\boxContainer.css",
+              "RelativeToolTip": "wwwroot\\css\\boxContainer.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-22T20:41:29.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Creator.cs",
+              "RelativeDocumentMoniker": "Models\\Creator.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Creator.cs",
+              "RelativeToolTip": "Models\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:21:31.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Media.cs",
+              "RelativeDocumentMoniker": "Models\\Media.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Media.cs",
+              "RelativeToolTip": "Models\\Media.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:20:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Press.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Press.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Press.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Press.cshtml",
+              "RelativeToolTip": "Views\\Home\\Press.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T23:22:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAASwOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T19:59:04.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPressDetails.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminPressDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminPressDetails.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminPressDetails.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminPressDetails.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T18:25:53.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FAQ.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\FAQ.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FAQ.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\FAQ.cshtml",
+              "RelativeToolTip": "Views\\Home\\FAQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T20:20:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T17:51:40.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PressSignUp.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\PressSignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PressSignUp.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\PressSignUp.cshtml",
+              "RelativeToolTip": "Views\\Home\\PressSignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T23:28:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPressList.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminPressList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminPressList.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminPressList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminPressList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T23:59:51.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatorSignUp.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\CreatorSignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreatorSignUp.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\CreatorSignUp.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreatorSignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T23:28:50.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminCreatorDetails.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminCreatorDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminCreatorDetails.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminCreatorDetails.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminCreatorDetails.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAIAzwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T19:56:04.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminCreatorList.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminCreatorList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminCreatorList.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminCreatorList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminCreatorList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T23:59:38.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T22:12:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FAQ.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\FAQ.cs",
+              "RelativeDocumentMoniker": "Models\\FAQ.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\FAQ.cs",
+              "RelativeToolTip": "Models\\FAQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:20:49.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminMediaAdd.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaAdd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminMediaAdd.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaAdd.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminMediaAdd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T01:01:16.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminMediaRemove.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaRemove.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminMediaRemove.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaRemove.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminMediaRemove.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T00:29:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupportRequest.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\SupportRequest.cs",
+              "RelativeDocumentMoniker": "Models\\SupportRequest.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\SupportRequest.cs",
+              "RelativeToolTip": "Models\\SupportRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:21:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminMediaEdit.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminMediaEdit.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminMediaEdit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminMediaEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T01:01:41.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Press.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Press.cs",
+              "RelativeDocumentMoniker": "Models\\Press.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\Press.cs",
+              "RelativeToolTip": "Models\\Press.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:21:19.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminNewsAdd.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsAdd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminNewsAdd.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsAdd.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminNewsAdd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T01:20:35.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminNewsRemove.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsRemove.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminNewsRemove.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsRemove.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminNewsRemove.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T00:29:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminFAQAdd.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQAdd.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminFAQAdd.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQAdd.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminFAQAdd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T01:16:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminNewsEdit.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminNewsEdit.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminNewsEdit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminNewsEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T01:20:25.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminFAQEdit.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminFAQEdit.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQEdit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminFAQEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T23:28:07.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminHub.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminHub.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminHub.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminHub.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminHub.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-13T00:01:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Models\\News.cs",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Models\\News.cs",
+              "RelativeToolTip": "Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T20:19:22.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminSupportList.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminSupportList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminSupportList.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminSupportList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminSupportList.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T00:29:30.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminFAQRemove.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQRemove.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminFAQRemove.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminFAQRemove.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminFAQRemove.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T00:38:25.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-23T20:19:28.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-15T17:34:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Admin.css",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\Admin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Admin.css",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\wwwroot\\css\\Admin.css",
+              "RelativeToolTip": "wwwroot\\css\\Admin.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-23T01:26:36.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\Views\\Admin\\AdminLogin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AdminLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-12T23:58:27.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MonsterTamersJourneyWebsite.csproj",
+              "DocumentMoniker": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\MonsterTamersJourneyWebsite.csproj",
+              "RelativeDocumentMoniker": "MonsterTamersJourneyWebsite.csproj",
+              "ToolTip": "C:\\Backup\\RecipeWebsite\\MonsterTamersJourney\\MonsterTamersJourneyWebsite\\MonsterTamersJourneyWebsite.csproj",
+              "RelativeToolTip": "MonsterTamersJourneyWebsite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-16T22:26:21.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

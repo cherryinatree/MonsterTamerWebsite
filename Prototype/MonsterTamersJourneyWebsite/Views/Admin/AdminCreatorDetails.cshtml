@@ -1,0 +1,39 @@
+﻿@model Creator
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+<div id="modal">
+    <header class="text-black"><h1>Creator Details</h1></header>
+    <section>
+
+        <h5>Email</h5>
+        <p class="text-black BoxTableItems">@Model.Email</p>
+        <h5>Creator Name</h5>
+        <p class="text-black BoxTableItems">@Model.CreatorName</p>
+        <h5>Prefered Name</h5>
+        <p class="text-black BoxTableItems">@Model.PreferedName</p>
+        <h5>Request Key</h5>
+        <p class="text-black BoxTableItems">@Model.RequestKey</p>
+        <h5>Content Platforms</h5>
+        <p class="text-black BoxTableItems">@Model.ContentPlatforms</p>
+        <h5>Social Accounts</h5>
+        <p class="text-black BoxTableItems">@Model.SocialAccounts</p>
+        <h5>About You</h5>
+        <p class="text-black BoxTableItems">@Model.AboutYou</p>
+        <h5>Other Requests</h5>
+        <p class="text-black BoxTableItems">@Model.OtherRequests</p>
+
+        <a asp-controller="Admin" asp-action="AdminCreatorList">
+            <button class="round-button bg-primary text-decoration-underline-none">Back</button>
+        </a>
+        <a asp-controller="Admin" asp-action="SaveCreatorRemove"
+           asp-route-id="@Model.CreatorId"><button class="round-button bg-danger text-decoration-underline-none">Remove</button></a>
+    </section>
+</div>
+

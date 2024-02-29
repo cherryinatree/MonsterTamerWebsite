@@ -1,0 +1,26 @@
+﻿@model Media
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-action="SaveMediaEdits">
+
+    <label asp-for="Order" type="hidden" value="@Model.Order" />
+    <input asp-for="Order" type="text" value="@Model.Order" />
+
+    <label asp-for="Title" type="hidden" value="@Model.Title" />
+    <input asp-for="Title" type="text" value="@Model.Title" />
+
+    <label asp-for="isImage" type="hidden" value="@Model.isImage" />
+    <input asp-for="isImage" type="text" value="@Model.isImage" />
+
+    <label asp-for="ImageUrl" type="hidden" value="@Model.ImageUrl" />
+    <input asp-for="ImageUrl" type="text" value="@Model.ImageUrl" />
+
+    <label asp-for="VideoUrl" type="hidden" value="@Model.VideoUrl" />
+    <input asp-for="VideoUrl" type="text" value="@Model.VideoUrl" />
+
+    <input type="hidden" asp-for="MediaId" />
+    <button type="submit">Save Edits</button>
+</form>

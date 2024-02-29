@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MonsterTamersJourneyWebsite
+build_property.RootNamespace = MonsterTamersJourneyWebsite
+build_property.ProjectDir = C:\Backup\RecipeWebsite\MonsterTamersJourney\MonsterTamersJourneyWebsite\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Backup\RecipeWebsite\MonsterTamersJourney\MonsterTamersJourneyWebsite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminCreatorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5DcmVhdG9yTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminFAQAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5GQVFBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminFAQRemove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5GQVFSZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminHub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5IdWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminMediaAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5NZWRpYUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminMediaRemove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5NZWRpYVJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminNewsAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5OZXdzQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminNewsRemove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5OZXdzUmVtb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminPressList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QcmVzc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Admin/AdminSupportList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TdXBwb3J0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/CreatorSignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdG9yU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Media.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/News.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Press.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/PressSignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzc1NpZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Home/Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Backup/RecipeWebsite/MonsterTamersJourney/MonsterTamersJourneyWebsite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4k4v7ycnd1

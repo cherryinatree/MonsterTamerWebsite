@@ -1,0 +1,61 @@
+﻿@model Press
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="modal">
+    <header><h1>Press Sign Up</h1></header>
+    <section>
+
+        <form asp-controller="Home" asp-action="SavePressSignUp" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input asp-for="Email" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="name" class="form-label">Name</label>
+                <input asp-for="name" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="OutletName" class="form-label">Outlet Name</label>
+                <input asp-for="OutletName" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="OutletCatagory" class="form-label">Outlet Catagory</label>
+                <input asp-for="OutletCatagory" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="MainChannel" class="form-label">Website or Main Channel</label>
+                <input asp-for="MainChannel" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TwitterHandel" class="form-label">Twitter Handle</label>
+                <input asp-for="TwitterHandel" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="RequestKey" class="form-label">Request Key to Play</label>
+                <input asp-for="RequestKey" type="checkbox" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="OtherRequests" class="form-label">Other Requests</label>
+                <textarea asp-for="OtherRequests" class="form-control"></textarea>
+            </div>
+
+            <input type="hidden" asp-for="PressId" />
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-controller="Home" asp-action="Support" asp-route-id="@Model.PressId"
+               class="btn btn-primary">Cancel</a>
+        </form>
+
+    </section>
+</div>

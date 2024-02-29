@@ -1,0 +1,57 @@
+﻿#modal {
+    width: 80%;
+    border: 1px solid #CCC;
+    box-shadow: 0 1px 5px #CCC;
+    border-radius: 5px;
+    font-family: verdana;
+    margin: 25px auto;
+    overflow: hidden;
+    background-color: #9ff5db;
+}
+
+    #modal header {
+        background: #f1f1f1;
+        box-shadow: 0 1px 2px #888;
+        padding: 10px;
+    }
+
+    #modal h1 {
+        padding: 0;
+        margin: 0;
+        font-size: 16px;
+        font-weight: normal;
+        text-shadow: 0 1px 2px white;
+        color: #888;
+        text-align: center;
+    }
+
+    #modal section {
+        padding: 10px 30px;
+        font-size: 12px;
+        line-height: 175%;
+        color: #333;
+    }
+
+    #modal table {
+        margin: 25px auto; 
+        width: 80%;
+    }
+
+    #modal th {
+        text-align: center;
+    }
+
+    #modal table button {
+        width: 100%;
+        padding: auto;
+        margin: auto;
+        text-align: center;
+        text-decoration: none;
+    }
+    #modal td {
+       justify-items: center;
+    }
+    #modal p{
+        text-align: center;
+    }
+

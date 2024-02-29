@@ -1,0 +1,26 @@
+﻿@model List<News>
+
+@{
+    ViewData["Title"] = "Home Page";
+    //string mediaName = (@Model.FirstOrDefault(x => x.MediaId == 1)).ImageUrl;
+}
+
+@foreach (var news in Model)
+{
+    
+<div id="modal">
+        <header><h3 class="text-black">@news.Title</h3></header>
+    <section>
+    <div class="text-center">
+        <img src="@news.ImageUrl" alt="A sample image" width="300" height="200" />
+
+                <div id="modal">
+                <section style="background-color:antiquewhite;">
+        <p>@news.Content</p>
+                    </section>
+                </div>
+            </div>
+    </section>
+    </div>
+
+}

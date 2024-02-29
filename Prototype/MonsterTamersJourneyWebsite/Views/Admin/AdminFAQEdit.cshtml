@@ -1,0 +1,20 @@
+﻿@model FAQ
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-action="SaveFAQEdits">
+
+    <label asp-for="Order" type="hidden" value="@Model.Order" />
+    <input asp-for="Order" type="text" value="@Model.Order" />
+         
+    <label asp-for="Title" type="hidden" value="@Model.Title" />
+    <input asp-for="Title" type="text" value="@Model.Title" />
+
+    <label asp-for="Content" type="hidden" value="@Model.Content" />
+    <input asp-for="Content" type="text" value="@Model.Content" />
+
+    <input type="hidden" asp-for="FAQId" />
+    <button type="submit">Save Edits</button>
+</form>

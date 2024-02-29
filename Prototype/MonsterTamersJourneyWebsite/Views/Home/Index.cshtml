@@ -1,0 +1,45 @@
+﻿@model List<News>
+
+@{
+    ViewData["Title"] = "Home Page";
+    int i = 0;
+}
+
+<body>
+    
+    <div class="top-half-background">
+        <div class="center-container">
+            <button class="round-button" style="background-color: red">
+                <img src="../Images/InGame4.png" alt="Icon" class="button-icon"> <p>Trailer</p>
+            </button>
+            <button class="round-button" style="background-color: black">
+                <img src="../Images/InGame4.png" alt="Icon" class="button-icon"> <p>Wishlist</p>
+            </button>
+        </div>
+    </div>
+
+    @foreach (var news in Model)
+    {
+
+        if(i<3){
+
+            <div id="modal">
+                <header><h3 class="text-black">@news.Title</h3></header>
+                <section>
+                    <div class="text-center">
+                        <img src="@news.ImageUrl" alt="A sample image" width="300" height="200" />
+
+                        <div id="modal">
+                            <section style="background-color:antiquewhite;">
+                                <p>@news.Content</p>
+                            </section>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        }
+
+        i++;
+    }
+
+</body>

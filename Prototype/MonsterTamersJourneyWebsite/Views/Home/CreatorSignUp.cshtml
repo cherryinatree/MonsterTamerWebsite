@@ -1,0 +1,58 @@
+﻿@model Creator
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div id="modal">
+    <header><h1>Support Request</h1></header>
+    <section>
+
+        <form asp-controller="Home" asp-action="SaveCreatorSignUp" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input asp-for="Email" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CreatorName" class="form-label">Creator Name</label>
+                <input asp-for="CreatorName" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="PreferedName" class="form-label">Prefered Name</label>
+                <input asp-for="PreferedName" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="ContentPlatforms" class="form-label">Content Platforms</label>
+                <input asp-for="ContentPlatforms" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="SocialAccounts" class="form-label">Social Accounts</label>
+                <input asp-for="SocialAccounts" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="AboutYou" class="form-label">About You</label>
+                <textarea asp-for="AboutYou" class="form-control"></textarea>
+            </div>
+            <div class="mb-3">
+                <label asp-for="RequestKey" class="form-label">Request Key To Play</label>
+                <input asp-for="RequestKey" type="checkbox" class="form-control">
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="OtherRequests" class="form-label">Other Requests</label>
+                <textarea asp-for="OtherRequests" class="form-control"></textarea>
+            </div>
+
+            <input type="hidden" asp-for="CreatorId" />
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-controller="Home" asp-action="Support" asp-route-id="@Model.CreatorId"
+               class="btn btn-primary">Cancel</a>
+        </form>
+
+    </section>
+</div>

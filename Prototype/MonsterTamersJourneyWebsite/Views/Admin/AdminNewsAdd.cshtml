@@ -1,0 +1,24 @@
+﻿@model News
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-action="SaveNewsAdd">
+
+    <label asp-for="Order" type="hidden" value="@Model.Order" />
+    <input asp-for="Order" type="text" value="@Model.Order" />
+
+    <label asp-for="Title" type="hidden" value="@Model.Title" />
+    <input asp-for="Title" type="text" value="@Model.Title" />
+
+    <label asp-for="Content" type="hidden" value="@Model.Content" />
+    <input asp-for="Content" type="text" value="@Model.Content" />
+
+    <label asp-for="ImageUrl" type="hidden" value="@Model.ImageUrl" />
+    <input asp-for="ImageUrl" type="text" value="@Model.ImageUrl" />
+
+
+    <input type="hidden" asp-for="NewsId" />
+    <button type="submit">Add</button>
+</form>
