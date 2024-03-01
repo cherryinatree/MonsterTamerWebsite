@@ -205,10 +205,10 @@ Website Admin Support View: ![Website Admin Support View page](README_images/Web
 
 ## ERD
 
-Website Home: ![Admin Creator List page](README_images/ERD.png)
+ERD: ![Admin Creator List page](README_images/ERD.png)
 
 
 ## UML
 
-Website Home: ![Admin Creator List page](README_images/UML.png)
+UML: ![Admin Creator List page](README_images/UML.png)
 
