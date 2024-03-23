@@ -212,3 +212,11 @@ ERD: ![Admin Creator List page](README_images/ERD.png)
 
 UML: ![Admin Creator List page](README_images/UML.png)
 
+## Data Access Layer
+
+Model Press: ![Model Press](README_images/Model_press.png)
+Model News: ![Model News](README_images/Model_News.png)
+Model FAQ: ![Model FAQ](README_images/Model_faq.png)
+Model dbContex: ![Model dbContext](README_images/Model_dbContext.png)
+Post Response Code: ![Post Response Code](README_images/PostResponseCode.png)
+http View Source Response: ![http View Source Response](README_images/httpViewSourceResponse.png)
