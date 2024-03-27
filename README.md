@@ -214,9 +214,16 @@ UML: ![Admin Creator List page](README_images/UML.png)
 
 ## Data Access Layer
 
+The Database has been set up on Azure and the local client can connect to it.
+Thanks to professor Sullivan for the help with the connection string. 
+If anyone else is having troble with their connection string, I had to turn off
+Microsoft entra and use the default username that azure gave. I also had to reset
+the password. But it is working now. 
+
 Model Press: ![Model Press](README_images/Model_press.png)
 Model News: ![Model News](README_images/Model_News.png)
 Model FAQ: ![Model FAQ](README_images/Model_faq.png)
 Model dbContex: ![Model dbContext](README_images/Model_dbContext.png)
 Post Response Code: ![Post Response Code](README_images/PostResponseCode.png)
 http View Source Response: ![http View Source Response](README_images/httpViewSourceResponse.png)
+Page From View Source Response: ![Page From View Source Response](README_images/pageFromSource.png)
